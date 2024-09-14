@@ -1,0 +1,31 @@
+.navlinks {
+    float: right;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: none;
+}
+
+.navlinks:hover {
+    color: red;
+    
+}
+
+.drawerlinks {
+    color: #040404;
+    padding: 20px 50px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.listitem:hover .drawerlinks {
+    color: rgb(234, 11, 11);
+}
+
+
+.fade {
+    color: red;
+  }
